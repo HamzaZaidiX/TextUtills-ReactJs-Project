@@ -1,8 +1,9 @@
-# Getting Started with Create React App
+# TextUtils - React Js
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**TextUtils** is a utility which is very useful in your daily life you can use to write any article, paragraph or story but you want your leatters to be in **Uppercase** or **Lowercase** or you want to **Count Words, Letters or Characters** so this utility platform will help you in this and you can work with this easily.  
 
-## Available Scripts
+
+## If u want to Run this Project
 
 In the project directory, you can run:
 
