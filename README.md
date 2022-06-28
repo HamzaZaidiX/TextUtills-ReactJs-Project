@@ -3,7 +3,7 @@
 **TextUtils** is a utility which is very useful in your daily life you can use to write any article, paragraph or story but you want your leatters to be in **Uppercase** or **Lowercase** or you want to **Count Words, Letters or Characters** so this utility platform will help you in this and you can work with this easily.  
 
 
-## If u want to Run this Project
+##  Run this Project Using:
 
 In the project directory, you can run:
 
@@ -69,3 +69,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Licence
+
+MIT LICENCE
+Read `Licence` document for more details
+
+# Bye! 👋
+
+HOPE U LIKE THIS PROJECT PLEASE! IF YOU ARE USING THIS CODE PLEASE GIVE **HAMZA ZAIDI** SOME CREDITS BY LIKE & GIVE A HEART!!! 😃👍💛
